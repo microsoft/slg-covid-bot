@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Microsoft's site for the Novel Coronavirus (COVID-19) response
 
-You can use the [editor on GitHub](https://github.com/Microsoft-Gov/Microsoft-Gov/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Microsoft will publish updates, changes, and more resources as they become available. These are the resources we have
 
 ### Markdown
 
