@@ -13,7 +13,7 @@ Here are the bot options and links to the code and instructions. These are the *
 
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
-| Simple QnA Bot| Follow 18 step-by-step guide to deploy this to your website. (recommended)   | [Implement](https://github.com/Microsoft-Gov/QnABot) |
+| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours    (recommended)   | [Follow steps](/docs/Covid Bot Instructions.docx) |
 | CDC FAQ       | FAQ provided by the Center for Disease Control (CDC)                         | [Download](/docs/CDC.txt) |
 | Zammo Bot     | Deploy a partner hosted bot and include voice assistants (Alexa)             | [Contact Zammo](https://zammo.ai/) |
 | HealthBot     | A more advanced Bot with a Covid-19 template. More configuration required    | [Read more](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot) |
