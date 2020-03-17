@@ -20,4 +20,5 @@ Here are the bot options and links to the code and instructions. These are the *
 
 ### Support or Contact
 
-If you have questions, please send inquiries to [EOU-Covid-19@Microsoft.com](mailto:EOU-Covid-19@Microsoft.com)
+If you have questions, please send inquiries to [EOU-Covid-19@Microsoft.com](mailto:EOU-Covid-19@Microsoft.com).  
+For a limited time, Microsoft will also provide live support during designated office hours TBD. Our goal is to enable your organization to leverage the Covid-19 Chatbot resources to meet the information dissemination needs of your organization.
