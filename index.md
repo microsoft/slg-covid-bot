@@ -3,7 +3,9 @@
 
 Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
 
-Microsoft will publish updates, changes, and more resources as they become available. These are the resources we have
+Microsoft will publish updates, changes, and more resources as they become available. At this time, we are getting many requests for help to get accurate information out by all means. One of the  most effective and efficient way is to implement a bot on your website. Visitors can interact with the bot without having to comb through FAQs, and hopefully find the information they need without resorting to calling your call center.
+
+Here are the options to deploy a bot and links to the code and instructions. These are the **quickest and easiest** options available.
 
 ### Markdown
 
