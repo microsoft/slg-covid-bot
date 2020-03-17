@@ -1,9 +1,19 @@
-![Image](https://github.com/Microsoft-Gov/docs/blob/master/images/Covid-Update.jpg?raw)
+![Image](/docs/images/MSLogo.PNG?raw)
+![Image](/docs/images/Covid-Update.jpg?raw)
 ## Welcome to Microsoft's site for the Novel Coronavirus (COVID-19) response
 
 Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
 
-Microsoft will publish updates, changes, and more resources as they become available. These are the resources we have
+Microsoft will publish updates, changes, and more resources as they become available. At this time, we are getting many requests for help to get accurate information out by all means. One of the  most effective and efficient way is to implement a bot on your website. Visitors can interact with the bot without having to comb through FAQs, and hopefully find the information they need without resorting to calling your call center.
+
+Here are the resources to deploy a bot and links to the code and instructions. These are the **quickest and easiest** options available.
+
+| Resource name | Description                                                                  | Link to resource | 
+| :-------------| :--------------------------------------------------------------------------- | :--------------: |
+| Zammo Bot     | Easiest way to deploy a hosted bot. Just insert javascript into master page. | [Read more](https://github.com/Microsoft-Gov/ZammoBot) |
+| Simple QnA Bot| Follow 18 step-by-step guide to deploy this to your website.                 | [Read more](https://github.com/Microsoft-Gov/QnABot) |
+| CDC FAQ       | FAQ provided by the Center for Disease Control (CDC)                         | [Download](/docs/CDC.txt) |
+
 
 ### Markdown
 
