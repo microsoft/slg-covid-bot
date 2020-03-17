@@ -11,7 +11,7 @@ Here are the resources to deploy a bot and links to the code and instructions. T
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
 | Zammo Bot     | Easiest way to deploy a hosted bot. Just insert javascript into master page. | [Read more](https://github.com/Microsoft-Gov/ZammoBot) |
-| Simple QnA Bot| Follow 18 step-by-step guide to deploy this to your website.                 | [Read more]((https://github.com/Microsoft-Gov/QnABot) |
+| Simple QnA Bot| Follow 18 step-by-step guide to deploy this to your website.                 | [Read more](https://github.com/Microsoft-Gov/QnABot) |
 | CDC FAQ       | FAQ provided by the Center for Disease Control (CDC)                         | [Download](/docs/CDC.txt) |
 
 
