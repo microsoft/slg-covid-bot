@@ -19,9 +19,9 @@ Here are the bot options and links to the code and instructions. These are the *
 | HealthBot     | A more advanced Bot with a Covid-19 template. More configuration required    | [Read more](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot) |
 
 #### Other resources
-| Resource name | Description                                                                  | Link to resource | 
+| Resource name | Description                                                                  | Link to resource |
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
-| CDC FAQ       | FAQ provided by the Center for Disease Control (CDC) that can be ingested into QnA maker                        | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
+| CDC FAQ       | FAQ provided by the Center for Disease Control (CDC) that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
 | King County FAQ | Sample FAQ provided by King County (Seattle and surrounding cities | [Link](https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus/FAQ.aspx){:target="_blank"} |
 
 ### Support & Contact
