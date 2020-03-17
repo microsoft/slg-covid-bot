@@ -1,3 +1,4 @@
+![Image](/docs/images/MSLogo.PNG?raw)
 ![Image](/docs/images/Covid-Update.jpg?raw)
 ## Welcome to Microsoft's site for the Novel Coronavirus (COVID-19) response
 
