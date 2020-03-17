@@ -1,4 +1,4 @@
-<a href="www.microsoft.com"><img src="/docs/images/Microsoft-logo_rgb_c-gray-1024x459.png" width="250" height="120"/></a>
+<a href="https://www.microsoft.com"><img src="/docs/images/Microsoft-logo_rgb_c-gray-1024x459.png" width="250" height="120"/></a>
 ![Image](/docs/images/Covid-Update.jpg?raw)
 ## Welcome to Microsoft's site for the Novel Coronavirus (COVID-19) response
 
