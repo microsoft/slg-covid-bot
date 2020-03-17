@@ -1,4 +1,4 @@
-![Image](/docs/images/Microsoft-logo_rgb_c-gray-1024x459.PNG){:height="36px" width="36px"}
+<img src="/docs/images/Microsoft-logo_rgb_c-gray-1024x459.PNG" width="100" height="50">
 ![Image](/docs/images/Covid-Update.jpg?raw)
 ## Welcome to Microsoft's site for the Novel Coronavirus (COVID-19) response
 
