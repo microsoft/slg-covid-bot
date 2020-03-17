@@ -18,11 +18,6 @@ Here are the bot options and links to the code and instructions. These are the *
 | Zammo Bot     | Deploy a partner hosted bot and include voice assistants (Alexa)             | [Contact Zammo](https://zammo.ai/) |
 | HealthBot     | A more advanced Bot with a Covid-19 template. More configuration required    | [Read more](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot) |
 | CDC FAQ       | Center for Disease Control (CDC) that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) |
-#### Other resources
-| Resource name | Description                                                                  | Link to resource |
-| :-------------| :--------------------------------------------------------------------------- | :--------------: |
-| CDC FAQ       | Center for Disease Control (CDC) that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) |
-| King County FAQ | Sample FAQ provided by King County (Seattle and surrounding cities | [Link](https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus/FAQ.aspx) |
 
 ### Support & Contact
 
