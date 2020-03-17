@@ -18,7 +18,7 @@ Here are the bot options and links to the code and instructions. These are the *
 | Zammo Bot     | Deploy a partner hosted bot and include voice assistants (Alexa)             | [Contact Zammo](https://zammo.ai/) |
 | HealthBot     | A more advanced Bot with a Covid-19 template. More configuration required    | [Read more](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot) |
 
-### Support or Contact
+### Support & Contact
 
 If you have questions, please send inquiries to [EOU-Covid-19@Microsoft.com](mailto:EOU-Covid-19@Microsoft.com).  
 For a limited time, Microsoft will also provide live support during designated office hours TBD. Our goal is to enable your organization to leverage the Covid-19 Chatbot resources to meet the information dissemination needs of your organization.
