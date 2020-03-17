@@ -1,4 +1,4 @@
-![Image](https://github.com/Microsoft-Gov/docs/blob/master/images/Covid-Update.jpg?raw)
+![Image](/docs/images/Covid-Update.jpg?raw)
 ## Welcome to Microsoft's site for the Novel Coronavirus (COVID-19) response
 
 Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
