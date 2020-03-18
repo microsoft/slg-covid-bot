@@ -17,6 +17,9 @@ Here are the bot options and links to the code and instructions. These are the *
 | Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours    (recommended)   | [Download Instructions](https://github.com/Microsoft-Gov/Microsoft-Gov.github.io/blob/master/docs/Covid%20Bot%20Instructions.docx?raw=true) |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
 
+### Office hours for bot deployment questions
+[Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUyOGFlNzUtNjdmMi00YjM0LTkzZjctNzAzOGI5OWUwNTI4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2245034998-ff14-46b2-8930-a81239a16800%22%7d) - Wednesday 3/18/2020 (9am-6pm EST)
+
 ### Support & Contact
 
 If you have questions, please send inquiries to [SLGBotChamps@microsoft.com](mailto:SLGBotChamps@microsoft.com).  
