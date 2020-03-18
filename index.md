@@ -1,6 +1,6 @@
 <a href="https://www.microsoft.com"><img src="/docs/images/Microsoft-logo_rgb_c-gray-1024x459.png" width="250" height="120"/></a>
-![Image](/docs/images/Covid-Update.jpg?raw)
-## Welcome to Microsoft's site for the Novel Coronavirus (Covid-19) response
+
+## Create an Azure Covid-19 Chatbot
 
 Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
 
@@ -15,6 +15,7 @@ Here are the bot options and links to the code and instructions. These are the *
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
 | Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours    (recommended)   | [Download Instructions](https://github.com/Microsoft-Gov/Microsoft-Gov.github.io/blob/master/docs/Covid%20Bot%20Instructions.docx?raw=true) |
+| Analytics     | Get analytics on your knowledge base                                         | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base){:target="_blank"} |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
 
 ### Office hours for bot deployment questions
@@ -27,8 +28,3 @@ The QnA Maker based bot utilizes several Azure services which each have their ow
 * Azure Bot Service
 * Azure Cognitive Search
 * Azure Application Insights
-
-### Support & Contact
-
-If you have questions, please send inquiries to [SLGBotChamps@microsoft.com](mailto:SLGBotChamps@microsoft.com).  
-For a limited time, Microsoft will also provide live support during designated office hours TBD. Our goal is to enable your organization to leverage the Covid-19 Chatbot resources to meet the information dissemination needs of your organization.
