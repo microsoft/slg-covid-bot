@@ -1,5 +1,5 @@
-<a href="https://www.microsoft.com"><img src="/docs/images/Microsoft-logo_rgb_c-gray-1024x459.png" width="250" height="120"/></a>
-
+<!--- <a href="https://www.microsoft.com"><img src="/docs/images/Microsoft-logo_rgb_c-gray-1024x459.png" width="250" height="120"/></a>
+--->
 ## Create an Azure Covid-19 Chatbot
 
 Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
