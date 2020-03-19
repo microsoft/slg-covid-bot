@@ -14,7 +14,8 @@ Here are the bot options and links to the code and instructions. These are the *
 
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
-| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours    (recommended)   | [Download Instructions](https://github.com/Microsoft-Gov/Microsoft-Gov.github.io/blob/master/docs/Covid%20Bot%20Instructions.docx?raw=true) |
+| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours                    | [Download Instructions](https://github.com/Microsoft-Gov/Microsoft-Gov.github.io/blob/master/docs/Covid%20Bot%20Instructions.docx?raw=true) |
+| Video         | Video showing step by step how to create the QnA bot.                        | [Link](https://youtu.be/1c-3sjNNRhw){:target="_blank"} |
 | Analytics     | Get analytics on your knowledge base                                         | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base){:target="_blank"} |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
 
