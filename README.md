@@ -29,6 +29,7 @@ The QnA Maker based bot utilizes several Azure services which each have their ow
 * Azure Cognitive Search
 * Azure Application Insights
 
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
