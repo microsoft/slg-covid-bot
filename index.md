@@ -14,9 +14,9 @@ Here are the bot options and links to the code and instructions. These are the *
 
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
-| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours                    | [Guide](docs/quick-start.md) |
-| Video         | Video showing step by step how to create the QnA bot.                        | [Video](https://youtu.be/1c-3sjNNRhw){:target="_blank"} |
-| Analytics     | Get analytics on your knowledge base                                         | [Guide](docs/telemetry-analytics.md)<br>[Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base){:target="_blank"} |
+| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours                    | [Download Instructions](docs/Covid%20Bot%20Instructions.docx?raw=true) |
+| Video         | Video showing step by step how to create the QnA bot.                        | [Link](https://youtu.be/1c-3sjNNRhw){:target="_blank"} |
+| Analytics     | Get analytics on your knowledge base                                         | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base){:target="_blank"} |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
 
 ### Office hours for bot deployment questions
