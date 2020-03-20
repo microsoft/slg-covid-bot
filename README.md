@@ -7,7 +7,7 @@ Option 2:
 Option 3:
 <a href="https://www.microsoft.com"><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"></a>
 
-## Create an Azure Covid-19 Chatbot
+## Create an Azure Covid-19 Chatbot (test GitHub Pages push)
 
 Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
 
