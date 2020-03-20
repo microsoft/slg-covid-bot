@@ -9,7 +9,7 @@ application telemetry. In the next few steps you'll learn how to monitor
 these metrics, including Questions, Answers and Confidence Scoring. By
 the end of this section you'll be able to create the following report:
 
-![](.//media/image24.png)
+> ![](.//media/image24.png)
 
 Please refer to this link for more information:
 <https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base>
@@ -17,22 +17,22 @@ Please refer to this link for more information:
 1.  Locate **Application Insights** you've created when initially
     deploying the bot
 
-![](.//media/image25.png)
+> ![](.//media/image25.png)
 
 2.  Check that it's collecting data, you should see charts like these,
     if you don't the App Insights aren't properly configured.
 
-![](.//media/image26.png)
+> ![](.//media/image26.png)
 
 3.  Click on Logs at the top
 
-![](.//media/image27.png)
+> ![](.//media/image27.png)
 
 4.  Run a Kusto query (copy and paste) from this
     [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base)
     -- Step 3
 
-![](.//media/image28.png)
+> ![](.//media/image28.png)
 
 5.  Done.
 
