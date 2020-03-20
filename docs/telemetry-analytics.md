@@ -1,7 +1,7 @@
 Telemetry and Analytics 
 =======================
 
-[App Insights (Time to Setup -- 3 Minutes)]{.smallcaps}
+[App Insights (Time to Setup -- 3 Minutes)]
 -------------------------------------------------------
 
 Q&A Maker can be deployed with **App Insights** to capture an analyze
