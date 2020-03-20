@@ -62,7 +62,7 @@ Provisioning the QnA Maker Knowledgebase
 
 6.  Wait until deployment is done.
 
-![](.//media/image4.png)
+> ![](.//media/image4.png)
 
 7.  Go back to the QnA Maker browser tab and click Refresh in Step 2.
 
