@@ -1,6 +1,7 @@
 <!--- <a href="https://www.microsoft.com"><img src="/docs/images/Microsoft-logo_rgb_c-gray-1024x459.png" width="250" height="120"/></a>
 --->
 <a href="https://www.microsoft.com"><img src="/docs/images/MSLogo.PNG"/></a>
+<a href="https://www.microsoft.com"><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"></a>
 
 ## Create an Azure Covid-19 Chatbot
 
