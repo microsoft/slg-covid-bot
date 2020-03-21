@@ -47,7 +47,7 @@ Provisioning the QnA Maker Knowledgebase
 
 3.  Click Create a knowledge base
 
-> ![](.//media/image1.png)
+    > ![](.//media/image1.png)
 
 4.  Click Create a QnA service
 
