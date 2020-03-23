@@ -9,14 +9,21 @@ Microsoft will publish updates, changes, and more resources as they become avail
 ### Covid-19 Chatbot Description
 Microsoft has assembled a package of assets customers can use to develop and deploy Covid-19 informational chatbots in a single day.  Chatbots are useful for providing answers to frequently asked questions (FAQs) and offer another communication channel in addition to your website or customer service organization. We expect organization to receive an extremely high volume of inquiries during the Covid-19 crisis. It is important that health, work, and safety related information be readily accessible. Powered by Azure, the Covid-19 Chatbot will effortlessly scale to meet demand. The Covid-19 Chatbot can be used for both internal communication with your employees or external communication with your customers. It will reduce the amount of time IT, human resources, and customer service staff spend answering questions, thereby enabling them to focus on higher value activities.
 
-#### Deployment options & resources
+#### Initial deployment options & resources
 Here are the bot options and links to the code and instructions. These are the **quickest and easiest** options available.
 
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
-| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours                    | [Download Instructions](docs/Covid%20Bot%20Instructions.docx?raw=true) |
+| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours                    | [Guide](docs/quick-start.md) |
 | Video         | Video showing step by step how to create the QnA bot.                        | [Link](https://youtu.be/1c-3sjNNRhw){:target="_blank"} |
-| Analytics     | Get analytics on your knowledge base                                         | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base){:target="_blank"} |
+
+
+#### Supplemental resources (optional)
+
+| Resource name | Description                                                                  | Link to resource | 
+| :-------------| :--------------------------------------------------------------------------- | :--------------: |
+| Analytics     | Get analytics on your knowledge base                                         | [Guide](docs/telemetry-analytics.md) |
+| Customize     | Download and customize your bot                                              | [Guide](docs/customize-bot.md) |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
 
 ### Office hours for bot deployment questions
