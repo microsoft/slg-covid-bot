@@ -9,7 +9,7 @@ application telemetry. In the next few steps you'll learn how to monitor
 these metrics, including Questions, Answers and Confidence Scoring. By
 the end of this section you'll be able to create the following report:
 
-    ![](.//media/image24.png)
+ ![](.//media/image24.png)
 
 Please refer to this link for more information:
 <https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base>
@@ -104,7 +104,7 @@ Visualizing, grouping and analyzing customer interactions (Time to Setup -- 10 M
     Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
     (free)
 
-2.  Download and Open [Power BI Report Template](resources/COVID19%20Bot%20Dashboard.pbix)
+2.  Download and Open [Power BI Report Template](/resources/COVID19%20Bot%20Dashboard.pbix)
 
     ![](.//media/image41.png)
 
@@ -112,9 +112,9 @@ Visualizing, grouping and analyzing customer interactions (Time to Setup -- 10 M
     **Application Insights ID** (from previous section, step 6)
 
     ![](.//media/image42.png)
->
+
     ![](.//media/image43.png)
->
+
     ![](.//media/image44.png)
 
 4.  **Log In** using **Organizational account**
