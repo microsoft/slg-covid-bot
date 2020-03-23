@@ -104,7 +104,7 @@ Visualizing, grouping and analyzing customer interactions (Time to Setup -- 10 M
     Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
     (free)
 
-2.  Download and Open [Power BI Report Template](resources/COVID19%20Bot%20Dashboard.pbix)
+2.  Download and Open [Power BI Report Template](../resources/COVID19%20Bot%20Dashboard.pbix)
 
     ![](.//media/image41.png)
 
