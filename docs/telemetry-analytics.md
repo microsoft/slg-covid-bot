@@ -45,7 +45,7 @@ Automatic email notification of unanswered questions (Time to Setup -- 10 Minute
     ![](.//media/image29.png)
 
 2.  Once created, click on **Blank Logic App** and select **Schedule**
-    as the trigger. (Select the **All** tab if you do not see **Schedule** as an otion under the For You tab)
+    as the trigger. (Select the **All** tab if you do not see **Schedule** as an option under the For You tab)
 
     ![](.//media/image30.png)
 
@@ -53,7 +53,7 @@ Automatic email notification of unanswered questions (Time to Setup -- 10 Minute
 
     ![](.//media/image31.png)
 
-4.  Click on **+ New Step** and select **Visualize Analytics query**
+4.  Click on **+ New Step**, type **Visualize** in the search box and select **Visualize Analytics query** in the results.
 
     ![](.//media/image32.png)
 
