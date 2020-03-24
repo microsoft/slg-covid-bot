@@ -28,7 +28,7 @@ Requirements
 ============
 
 To get started building a QnA Maker Bot you will need an Azure
-Commercial subscription. If you do not already have a subscription,
+Commercial or Government subscription. If you do not already have a subscription,
 please reach out to your Microsoft account team immediately and they can
 assist. For the basic QnA Maker you do not need to have developer
 experience. You will need basic HTML experience to add the necessary
@@ -40,7 +40,7 @@ Subscription and then follow the instructions below.
 Provisioning the QnA Maker Knowledgebase
 ========================================
 
-1.  Go to <https://qnamaker.ai>
+1.  Go to <https://qnamaker.ai> for Azure Commercial or <https://www.qnamaker.azure.us/> for Azure Government
 
 2.  Sign in with your Microsoft Azure Subscription login name and
     password.
