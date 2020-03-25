@@ -25,7 +25,8 @@ Here are the bot options and links to the code and instructions. These are the *
 | Analytics     | Get analytics on your knowledge base                                         | [Guide](docs/telemetry-analytics.md) |
 | Customize     | Download and customize your bot                                              | [Guide](docs/customize-bot.md) |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
-| Update Guide  | How to update COVID-19 content when multiple contributors are involved       | [Link](https://youtu.be/ikQSP5Er-CE){:target="_blank"}
+| Update Guide  | How to update COVID-19 content when multiple contributors are involved       | [Link](https://youtu.be/ikQSP5Er-CE){:target="_blank"} |
+| Samples  | Code samples for developers.       | [Link](samples/readme.md) |
 
 ### Office hours for bot deployment questions
 [Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUyOGFlNzUtNjdmMi00YjM0LTkzZjctNzAzOGI5OWUwNTI4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2245034998-ff14-46b2-8930-a81239a16800%22%7d){:target="_blank"} - Mon-Fri: 9am-6pm ET (For a limited time)
