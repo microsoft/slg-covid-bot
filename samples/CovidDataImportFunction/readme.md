@@ -10,7 +10,7 @@ Requirements
 Deployment
 ==========
 
-1.  Download the sample code and open in Visual Studio 2019.
+1.  [Download](https://github.com/microsoft/slg-covid-bot/archive/master.zip) a zip file of this repo which includes the sample code and unzip in a folder. Open the sample solution in Visual Studio 2019.  The sample solution is in the samples\CovidDataImportFunction folder.
 
 2.  Review and make any code changes if desired.
 
