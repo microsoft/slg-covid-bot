@@ -22,8 +22,7 @@ Deployment
 
 6.  Ensure that Run from package file is checked.
 
-![](.//media/image1.png){width="3.2922080052493436in"
-height="2.4705632108486437in"}
+![](.//media/image1.png)
 
 7.  Click on the Create Profile button
 
@@ -37,8 +36,7 @@ height="2.4705632108486437in"}
 
 12. Choose an Azure Storage Account, or create a new one if desired.
 
-![](.//media/image2.png){width="3.168830927384077in"
-height="2.3766229221347333in"}
+![](.//media/image2.png)
 
 13. Click on the Create button.
 
@@ -70,8 +68,7 @@ To set the configuration values:
 
 3.  In the main panel, click on the Configuration link.
 
-![](.//media/image3.png){width="4.253246937882765in"
-height="1.837166447944007in"}
+![](.//media/image3.png)
 
 4.  Add new application setting for each of the configuration variables
     listed above. Ensure that you are setting the values appropriately
@@ -106,8 +103,7 @@ kbId
 The kbId value can be located in the URL when viewing your QnA Maker
 Knowledgebase. For example:
 
-![](.//media/image4.png){width="5.48701334208224in"
-height="0.23331583552055993in"}
+![](.//media/image4.png)
 
 Would indicate a kbId of a151c1e2-b547-41d5-b92c-003c4043dab0
 
@@ -122,8 +118,7 @@ Function has permissions to update the knowledgebase question.
     Function configuration is listed as Key1 in the Quick Start page for
     your Cognitive Services.
 
-> ![](.//media/image5.png){width="3.6815977690288713in"
-> height="0.9350645231846019in"}
+> ![](.//media/image5.png)
 
 botEndpoint
 -----------
@@ -133,8 +128,7 @@ botEndpoint
     Azure Function configuration is listed as Endpoint in the Quick
     Start page for your Cognitive Services.
 
-> ![](.//media/image5.png){width="3.6815977690288713in"
-> height="0.9350645231846019in"}
+> ![](.//media/image5.png)
 
 questionId
 ----------
@@ -156,8 +150,7 @@ Postman (<https://www.postman.com/downloads/>)
 
 When entered, it will look something like:
 
-> ![](.//media/image6.png){width="4.324675196850394in"
-> height="0.517020997375328in"}
+> ![](.//media/image6.png)
 
 4.  Click on the Headers link below the URL box.
 
@@ -167,8 +160,7 @@ When entered, it will look something like:
 6.  Set the value for the Ocp-Apim-Subscription-Key to the apiKey value
     identified earlier. Once completed it should look similar to:
 
-> ![](.//media/image7.png){width="4.493506124234471in"
-> height="1.2659590988626421in"}
+> ![](.//media/image7.png)
 
 7.  Click on the Send button. If everything was set correctly you should
     see a JSON formatted document shown in a panel at the bottom of the
@@ -178,5 +170,4 @@ When entered, it will look something like:
     note down the id. This will be the questionId used in your Azure
     Function configuration.
 
-> ![](.//media/image8.png){width="4.53246719160105in"
-> height="2.2928663604549433in"}
+> ![](.//media/image8.png)
