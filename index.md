@@ -16,6 +16,7 @@ Here are the bot options and links to the code and instructions. These are the *
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
 | Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours                    | [Guide](docs/quick-start.md) |
 | Video         | Video showing step by step how to create the QnA bot.                        | [Link](https://youtu.be/1c-3sjNNRhw){:target="_blank"} |
+| Video         | How to update COVID-19 content when multiple contributors are involved       | [Link](https://youtu.be/ikQSP5Er-CE){:target="_blank"} |
 
 
 #### Supplemental resources (optional)
@@ -25,7 +26,6 @@ Here are the bot options and links to the code and instructions. These are the *
 | Analytics     | Get analytics on your knowledge base                                         | [Guide](docs/telemetry-analytics.md) |
 | Customize     | Download and customize your bot                                              | [Guide](docs/customize-bot.md) |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
-| Update Guide  | How to update COVID-19 content when multiple contributors are involved       | [Link](https://youtu.be/ikQSP5Er-CE){:target="_blank"} |
 | Samples  | Code samples for developers.       | [Link](samples/readme.md) |
 
 ### Office hours for bot deployment questions

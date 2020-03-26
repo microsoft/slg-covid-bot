@@ -36,6 +36,34 @@ Please refer to this link for more information:
 
 5.  Done.
 
+
+Visualizing, grouping and analyzing customer interactions (Time to Setup -- 10 Minutes)
+---------------------------------------------------------------------------------------
+
+1.  Pre-Requisite - [Download Power BI
+    Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+    (free)
+
+2.  Download and Open [Power BI Report Template](https://github.com/microsoft/slg-covid-bot/raw/master/resources/COVID19%20Bot%20Dashboard.pbix)
+
+    ![](.//media/image41.png)
+
+3.  Edit Parameters to update local time **UTC Offset** and
+    **Application Insights ID** (from previous section, step 6)
+
+    ![](.//media/image42.png)
+
+    ![](.//media/image43.png)
+
+    ![](.//media/image44.png)
+
+4.  **Log In** using **Organizational account**
+
+    ![](.//media/image45.png)
+
+5.  Done
+
+
 Automatic email notification of unanswered questions (Time to Setup -- 10 Minutes)
 ----------------------------------------------------------------------------------
 
@@ -96,29 +124,3 @@ Automatic email notification of unanswered questions (Time to Setup -- 10 Minute
     ![](.//media/image40.png)
 
 14. Done.
-
-Visualizing, grouping and analyzing customer interactions (Time to Setup -- 10 Minutes)
----------------------------------------------------------------------------------------
-
-1.  Pre-Requisite - [Download Power BI
-    Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-    (free)
-
-2.  Download and Open [Power BI Report Template](https://github.com/microsoft/slg-covid-bot/raw/master/resources/COVID19%20Bot%20Dashboard.pbix)
-
-    ![](.//media/image41.png)
-
-3.  Edit Parameters to update local time **UTC Offset** and
-    **Application Insights ID** (from previous section, step 6)
-
-    ![](.//media/image42.png)
-
-    ![](.//media/image43.png)
-
-    ![](.//media/image44.png)
-
-4.  **Log In** using **Organizational account**
-
-    ![](.//media/image45.png)
-
-5.  Done
