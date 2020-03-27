@@ -26,10 +26,17 @@ Here are the bot options and links to the code and instructions. These are the *
 | Analytics     | Get analytics on your knowledge base                                         | [Guide](docs/telemetry-analytics.md) |
 | Customize     | Download and customize your bot                                              | [Guide](docs/customize-bot.md) |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
-| Samples  | Code samples for developers.       | [Link](samples/readme.md) |
+| Integrate SMS | Enable your bot to answer questions via SMS text messaging via Twilio | [Link](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-twilio?view=azure-bot-service-4.0){:target="_blank"}
+| Samples       | Code samples for developers       | [Link](samples/readme.md) |
 
 ### Office hours for bot deployment questions
 [Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUyOGFlNzUtNjdmMi00YjM0LTkzZjctNzAzOGI5OWUwNTI4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2245034998-ff14-46b2-8930-a81239a16800%22%7d){:target="_blank"} - Mon-Fri: 9am-6pm ET (For a limited time)
+
+### Alternative Uses
+QnA Maker bots can be created to assist with a wide range of topics to assist customers with addressing the COVID pandemic.  Below are a few additional ideas:
+
+* Department of Economic Development - provide access to quick answers to questions of interest to local businesses.
+* Department of Labor - provide information to help citizens understand unemployment benefits and options.
 
 ### Pricing
 The QnA Maker based bot utilizes several Azure services which each have their own cost based upon their service tier or usage. Below are the components which need to be considered when calculating costs.
