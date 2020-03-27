@@ -37,6 +37,7 @@ QnA Maker bots can be created to assist with a wide range of topics to assist cu
 
 * Department of Economic Development - provide access to quick answers to questions of interest to local businesses.
 * Department of Labor - provide information to help citizens understand unemployment benefits and options.
+* 211 Assistance
 
 ### Pricing
 The QnA Maker based bot utilizes several Azure services which each have their own cost based upon their service tier or usage. Below are the components which need to be considered when calculating costs.
