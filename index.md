@@ -26,7 +26,7 @@ Here are the bot options and links to the code and instructions. These are the *
 | Analytics     | Get analytics on your knowledge base                                         | [Guide](docs/telemetry-analytics.md) |
 | Customize     | Download and customize your bot                                              | [Guide](docs/customize-bot.md) |
 | CDC FAQ       | Center for Disease Control (CDC) FAQ that can be ingested into QnA maker | [Link](https://www.cdc.gov/coronavirus/2019-ncov/faq.html){:target="_blank"} |
-| Integrate SMS | Enable your bot to answer questions via SMS text messaging | [Link](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-send-messages?view=azure-bot-service-4.0&tabs=csharp){:target="_blank"}
+| Integrate SMS | Enable your bot to answer questions via SMS text messaging via Twilio | [Link](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-twilio?view=azure-bot-service-4.0){:target="_blank"}
 | Samples       | Code samples for developers       | [Link](samples/readme.md) |
 
 ### Office hours for bot deployment questions
