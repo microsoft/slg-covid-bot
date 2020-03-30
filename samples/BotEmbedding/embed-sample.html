@@ -1,0 +1,25 @@
+<a href="javascript:popupFunction();"><img alt="COVID-19 Question and Answer Bot" src="https://YOUR_IMAGE_HERE.png" style="width: 80px; height: 88px; right: 16px; bottom: 80px; position: fixed; z-index: 1001; cursor: pointer;" /></a>
+
+<script>
+
+    function popupFunction() {
+
+        var x = document.getElementById('chatFrame');
+
+        if (x.style.visibility == 'hidden') {
+
+            x.style.visibility = 'visible';
+
+        }
+
+        else {
+
+            x.style.visibility = 'hidden';
+
+        }
+
+    }
+
+</script>
+
+<iframe id="chatFrame" src="'https://webchat.botframework.com/embed/YOUR_APP_NAME_HERE?s=YOUR_SECRET_HERE'" style="border: 1px solid rgb(118, 118, 118); border-image: none; width: 400px; height: 500px; right: 18px; bottom: 178px; visibility: hidden; position: fixed; z-index: 1001; background-color: rgb(255, 255, 255); max-width: calc(100% - 36px); max-height: calc(100% - 188px);"></iframe>
