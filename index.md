@@ -30,7 +30,7 @@ Here are the bot options and links to the code and instructions. These are the *
 | Samples       | Code samples for developers       | [Link](https://github.com/microsoft/slg-covid-bot/tree/master/samples) |
 
 ### Office hours for bot deployment questions
-[Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUyOGFlNzUtNjdmMi00YjM0LTkzZjctNzAzOGI5OWUwNTI4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2245034998-ff14-46b2-8930-a81239a16800%22%7d){:target="_blank"} - Mon-Fri: 9am-6pm ET (For a limited time)
+[Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUyOGFlNzUtNjdmMi00YjM0LTkzZjctNzAzOGI5OWUwNTI4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2245034998-ff14-46b2-8930-a81239a16800%22%7d){:target="_blank"} - Mon-Fri: 10am-12pm ET and 4pm-6pm ET (For a limited time)
 
 ### Alternative Uses
 QnA Maker bots can be created to assist with a wide range of topics to assist customers with addressing the COVID pandemic.  Below are a few additional ideas:
