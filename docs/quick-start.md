@@ -92,8 +92,8 @@ Provisioning the QnA Maker Knowledgebase
 
 12. Add additional URLs or Files (optional)
 
-13. Add personality of Bot (optional but recommend picking one). This
-    will add some basic responses when folks greet the bot.
+13. Add personality of Bot (optional and NOT recommended). This
+    will add some basic responses when folks greet the bot, however, it may also intefere with question and answer pairs you supply.  
 
     ![](.//media/image10.png)
 
