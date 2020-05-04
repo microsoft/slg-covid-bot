@@ -1,13 +1,15 @@
 <a href="https://www.microsoft.com"><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"></a>
 
-## Create an Azure Covid-19 Chatbot
+## Create a Microsoft Informational Bot
+Microsoft informational bots enable customers to disseminate information about their organizations to external or internal audiences at scale. Bots provide an additional channel for your customers to access information. Promoting a custom bot as the first place to go to get answers about your organization and its programs, reduces the number of inquiries that your customer service organization must handle. This is particularly beneficial during the current COVID-19 pandemic where customer service organizations for critical services are strained to the limit. A typical informational bot can be developed in less than a day.
 
-Here, you will find useful resources to leverage Microsoft technology to help your organization effectively address the situation.  
+This web site offers useful resources that will enable you to develop an informational Bot for your organization. Two bots most frequently developed using the assets on this web site are described in the following paragraphs.
 
-Microsoft will publish updates, changes, and more resources as they become available. At this time, we are getting many requests for help to get accurate information out by all means. One of the  most effective and efficient way is to implement a bot on your website. Visitors can interact with the bot without having to comb through FAQs, and hopefully find the information they need without resorting to calling your call center.
+## Unemployment Insurance (UI) Chatbot
+The COVID-19 pandemic has wreaked havoc on the US economy and has left many people unemployed. This has resulted in the largest number of people filing for unemployment in our country’s history. Most state and local unemployment insurance agencies were not designed to handle such a large surge of applications in such a short period of time. Consequently, unemployment customer service organizations are being overwhelmed by questions, many of which can be answered by a Microsoft bot loaded with Frequently Asked Questions (FAQs). The minimal investment in time spent developing a bot yields large returns in reduced employee stress and increased customer satisfaction. [(See example)](https://esd.wa.gov/newsroom/covid-19){:target="_blank"}
 
-### Covid-19 Chatbot Description
-Microsoft has assembled a package of assets customers can use to develop and deploy Covid-19 informational chatbots in a single day.  Chatbots are useful for providing answers to frequently asked questions (FAQs) and offer another communication channel in addition to your website or customer service organization. We expect organization to receive an extremely high volume of inquiries during the Covid-19 crisis. It is important that health, work, and safety related information be readily accessible. Powered by Azure, the Covid-19 Chatbot will effortlessly scale to meet demand. The Covid-19 Chatbot can be used for both internal communication with your employees or external communication with your customers. It will reduce the amount of time IT, human resources, and customer service staff spend answering questions, thereby enabling them to focus on higher value activities.
+### Covid-19 Chatbot
+The COVID-19 Chatbot is an informational bot that can be used to disseminate any type of COVID-19 related FAQs. This can include health, licensing, transportation, and other information. Powered by Azure, the Covid-19 Chatbot will effortlessly scale to meet demand. The Covid-19 Chatbot can be used for both internal communication with your employees or external communication with your customers. It will reduce the amount of time IT, human resources, and customer service staff spend answering questions, thereby enabling them to focus on higher value activities. 
 
 #### Initial deployment options & resources
 Here are the bot options and links to the code and instructions. These are the **quickest and easiest** options available.
