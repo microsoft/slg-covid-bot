@@ -5,7 +5,7 @@ Microsoft informational bots enable customers to disseminate information about t
 
 This web site offers useful resources that will enable you to develop an informational Bot for your organization. Two bots most frequently developed using the assets on this web site are described in the following paragraphs.
 
-## Unemployment Insurance (UI) Chatbot
+### Unemployment Insurance (UI) Chatbot
 The COVID-19 pandemic has wreaked havoc on the US economy and has left many people unemployed. This has resulted in the largest number of people filing for unemployment in our country’s history. Most state and local unemployment insurance agencies were not designed to handle such a large surge of applications in such a short period of time. Consequently, unemployment customer service organizations are being overwhelmed by questions, many of which can be answered by a Microsoft bot loaded with Frequently Asked Questions (FAQs). The minimal investment in time spent developing a bot yields large returns in reduced employee stress and increased customer satisfaction. [(See example)](https://esd.wa.gov/newsroom/covid-19){:target="_blank"}
 
 ### Covid-19 Chatbot
