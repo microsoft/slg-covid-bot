@@ -8,10 +8,10 @@ This web site offers useful resources that will enable you to develop an informa
 ### Unemployment Insurance (UI) Chatbot
 The COVID-19 pandemic has wreaked havoc on the US economy and has left many people unemployed. This has resulted in the largest number of people filing for unemployment in our country’s history. Most state and local unemployment insurance agencies were not designed to handle such a large surge of applications in such a short period of time. Consequently, unemployment customer service organizations are being overwhelmed by questions, many of which can be answered by a Microsoft bot loaded with Frequently Asked Questions (FAQs). The minimal investment in time spent developing a bot yields large returns in reduced employee stress and increased customer satisfaction. [(See example)](https://esd.wa.gov/newsroom/covid-19){:target="_blank"}
 
-### Covid-19 Chatbot
+### COVID-19 Chatbot
 The COVID-19 Chatbot is an informational bot that can be used to disseminate any type of COVID-19 related FAQs. This can include health, licensing, transportation, and other information. Powered by Azure, the Covid-19 Chatbot will effortlessly scale to meet demand. The Covid-19 Chatbot can be used for both internal communication with your employees or external communication with your customers. It will reduce the amount of time IT, human resources, and customer service staff spend answering questions, thereby enabling them to focus on higher value activities. 
 
-#### Initial deployment options & resources
+### Initial deployment options & resources
 Here are the bot options and links to the code and instructions. These are the **quickest and easiest** options available.
 
 | Resource name | Description                                                                  | Link to resource | 
@@ -21,7 +21,7 @@ Here are the bot options and links to the code and instructions. These are the *
 | Video         | How to update COVID-19 content when multiple contributors are involved       | [Link](https://youtu.be/ikQSP5Er-CE){:target="_blank"} |
 
 
-#### Supplemental resources (optional)
+### Supplemental resources (optional)
 
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
