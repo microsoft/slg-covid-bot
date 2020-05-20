@@ -32,6 +32,14 @@ Here are the bot options and links to the code and instructions. These are the *
 | Samples       | Code samples for developers       | [Link](https://github.com/microsoft/slg-covid-bot/tree/master/samples) |
 | Search Tier   | How to change Azure Cognitive Search Tier | [Guide](docs/ChangeSearchTier.md)
 
+#### Healthcare Bot resources
+
+| Resource name | Description                                                                  | Link to resource | 
+| :-------------| :--------------------------------------------------------------------------- | :--------------: |
+| Health Bot    | Provides intelligent, personalized access to health-related information      |  [Guide](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fhealthbot%2F&data=02%7C01%7CRuqsana.Jabbar%40microsoft.com%7C326bd0aa2646422483f108d7e158a931%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637225643217271518&sdata=kROCKJewOsW7sXnHqqXJzIlbjSddiMILqsIIJb9nsPM%3D&reserved=0)|     
+| Quickstart    | Follow step-by-step guide to deploy                                          | [Guide](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fhealthcare-and-life-sciences%2Fupdated-on-4-2-2020-quick-start-setting-up-your-covid-19%2Fba-p%2F1230537&data=02%7C01%7CRuqsana.Jabbar%40microsoft.com%7C326bd0aa2646422483f108d7e158a931%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637225643217281512&sdata=RjCGac7oFrzKLTgwRC9agZoBaTdZV6SgQv52SxaJtHo%3D&reserved=0)|
+| Best Practices|  Instance Management and Version Control Recommendations                      | [Guide](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/health-bot-instance-management-and-version-control-best/ba-p/1240487)| 
+
 ### Office hours for bot deployment questions
 [Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUyOGFlNzUtNjdmMi00YjM0LTkzZjctNzAzOGI5OWUwNTI4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2245034998-ff14-46b2-8930-a81239a16800%22%7d){:target="_blank"} - Wednesdays from 12:00pm to 2:00pm ET
 
