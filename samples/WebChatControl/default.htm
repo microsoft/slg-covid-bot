@@ -1,54 +1,67 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>COVD-19 Bot Sample</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <div id="webchat" role="main" style="width: 550px; height: 700px; border:1px solid black; position: fixed; bottom:0; right:0"></div>
 
     <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat-es5.js"></script>
+
     <script>
-        var dispatchEvent = function (dispatch) {
-            return function (next) {
-                return function (action) {
-                    if (action.type === 'DIRECT_LINE/CONNECT_FULFILLED') {
-                        // When we receive DIRECT_LINE/CONNECT_FULFILLED action, we will send an event activity using WEB_CHAT/SEND_EVENT
-                        dispatch.dispatch({
-                            type: 'WEB_CHAT/SEND_EVENT',
-                            payload: {
-                                name: 'webchat/join'
-                            }
-                        });
-                    }
-
-                    return next(action);
+      var dispatchEvent = function(dispatch) {
+        return function(next) {
+          return function(action) {
+            if (action.type === 'DIRECT_LINE/CONNECT_FULFILLED') {
+              // When we receive DIRECT_LINE/CONNECT_FULFILLED action, we will send an event activity using WEB_CHAT/SEND_EVENT
+              dispatch.dispatch({
+                type: 'WEB_CHAT/SEND_EVENT',
+                payload: {
+                  name: 'webchat/join'
                 }
+              });
             }
-        };
+            return next(action);
+          }
+        }
+      };
+      const store = window.WebChat.createStore({}, dispatchEvent);
 
-        const store = window.WebChat.createStore({}, dispatchEvent);
+      var xhr = new XMLHttpRequest();
+      xhr.responseType = "json";
+      xhr.open('GET', "https://webchat.botframework.com/embed/<YOUR_BOT_HANDLE>/config?s=<YOUR_SECRET_HERE>", true);
+      xhr.send();
 
-        window.WebChat.renderWebChat(
-            {
-                directLine: window.WebChat.createDirectLine({
-                    token: '<your bot secret here>'
-                }),
-                store: store,
-                userID: 'covid-user-id',
-                username: 'covid-user',
-                locale: 'en-US',
-                styleOptions: {
-                    //botAvatarInitials: '<optional initials>',
-                    //userAvatarInitials: '<optional initials>',
-                    hideUploadButton: true
-                }
-            },
-            document.getElementById('webchat')
-        );
+      xhr.addEventListener("readystatechange", processRequest, false);
+      xhr.onreadystatechange = processRequest;
+      var boticonlink;
+
+      function processRequest(e) {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+              boticonlink = xhr.response.botIconURL;
+     
+              window.WebChat.renderWebChat({
+              directLine: window.WebChat.createDirectLine({
+              token: ‘<YOUR_SECRET_HERE>'
+              }),
+              store: store,
+              userID: 'covid-user-id',
+              username: 'covid-user',
+              locale: 'en-US',
+              styleOptions: {
+                            //botAvatarInitials: '<optional initials>',
+                            //userAvatarInitials: '<optional initials>',
+                            botAvatarImage: boticonlink,
+                            hideUploadButton: true
+                            }
+              },
+              document.getElementById('webchat'),
+              );      
+        }
+     };
     </script>
-</body>
+  </body>
 </html>
