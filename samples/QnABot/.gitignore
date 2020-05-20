@@ -1,0 +1,12 @@
+*.bot
+*.dll
+*.pdb
+obj/**
+bin/**
+runtimes/**
+*.user
+*.PublishSettings
+publish.cmd
+Properties/PublishProfiles/
+packages/
+.vs/
